@@ -1,0 +1,95 @@
+.swiper-slide img {
+    width: 100%;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    color: white;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: white;
+}
+
+.carousel-image-container1 {
+    background-image: url('../../../assets/images/insuranceElecronics.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* background-color: rgba(76, 74, 74, 0.95); */
+    background-blend-mode: darken;
+    background-attachment: fixed;
+}
+
+.carousel-image-container2 {
+    background-image: url('../../../assets/images/insurance-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* background-color: rgba(76, 74, 74, 0.95); */
+    background-blend-mode: darken;
+    background-attachment: fixed;
+}
+
+.carousel-image-container3 {
+    background-image: url('../../../assets/images/Health.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* background-color: rgba(76, 74, 74, 0.95); */
+    background-blend-mode: darken;
+    background-attachment: fixed;
+}
+
+.carousel-image-container4 {
+    background-image: url('../../../assets/images/hands-in-hands-protecting-paper-family.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* background-color: rgba(76, 74, 74, 0.95); */
+    background-blend-mode: darken;
+    background-attachment: fixed;
+}
+
+.carousel-image-container5 {
+    background-image: url('../../../assets/images/affordable-car-insurance-1024x682.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* background-color: rgba(76, 74, 74, 0.95); */
+    background-blend-mode: darken;
+    background-attachment: fixed;
+}
+
+.carousel-image-container6 {
+    background-image: url('../../../assets/images/4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* background-color: rgba(76, 74, 74, 0.95); */
+    background-blend-mode: darken;
+    background-attachment: fixed;
+}
+
+.swiper-wrapper {
+    min-height: 100vh;
+    height: 120vh;
+}
